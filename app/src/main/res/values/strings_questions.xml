@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="before_birthday">дня рождения</string>
+    <string name="before_new_year">нового года</string>
+    <string name="tomorrow">завтра</string>
+    <string name="q_hi">привет</string>
+    <string name="q_how_are_you">как дела</string>
+    <string name="q_what_doing">что делаешь</string>
+    <string name="q_what_doing_2">чем занимаешься</string>
+    <string name="q_thank">спасибо</string>
+    <string name="today">сегодня</string>
+    <string name="q_time">час</string>
+    <string name="q_time2">врем</string>
+    <string name="q_day_of_week">день недели</string>
+    <string name="q_days_before">дней до</string>
+    <string name="q_weather_in_city">погода в городе</string>
+    <string name="q_help">помо</string>
+    <string name="q_translate">переведи</string>
+    <string name="q_say">повтори</string>
+</resources>

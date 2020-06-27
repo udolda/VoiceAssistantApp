@@ -1,0 +1,15 @@
+<resources>
+    <string name="questionFieldHint">Задайте вопрос</string>
+    <string name="sendButtonText">Отправить</string>
+    <string name="assistantName">Ассистент</string>
+    <string name="userName">Пользователь</string>
+    <string name="app_name">Голосовой Ассистент</string>
+    <string name="a_day_of_week">Сегодня</string>
+    <string name="q_holiday">праздник</string>
+    <string name="yesterday">вчера</string>
+    <string name="day_theme">Светлая тема</string>
+    <string name="night_theme">Тёмная тема</string>
+    <string name="clear_dialog">Очистить диалог</string>
+
+
+</resources>

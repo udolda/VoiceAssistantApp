@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="a_hi">Привет</string>
+    <string name="a_how_are_you">Неплохо</string>
+    <string name="a_what_doing">Отвечаю на вопросы</string>
+    <string name="a_thank">Обращайтесь</string>
+    <string name="translate_error">не могу перевести</string>
+    <string name="now_in_city">В городе</string>
+    <string name="internet_error">Нет соединения с интернетом</string>
+    <string name="weather_error">Не могу узнать погоду</string>
+    <string name="help_info">Всё что я знаю:
+        \n\nЧем ты можешь мне помочь?
+        \n\nПривет
+        \n\nКак дела?
+        \n\nЧто делаешь или чем занимаешься?
+        \n\nКакой сегодня день?
+        \n\nСколько времени?
+        \n\nКакой день недели?
+        \n\nСколько дней до нового года или дня рождения?
+        \n\nПогода в городе [название города]
+        \n\nПереведи [текст на английксом / число]
+        \n\nКакой праздник [вчера / сегодня / завтра / 10 мая / 10 5 / 10.5]
+        \n\nСпасибо за помощь</string>
+    <string name="question_error">Не поняла Вас</string>
+    <string name="a_before_error">Я не знаю, когда это будет</string>
+    <string name="a_time">Сейчас</string>
+    <string name="a_today">Сегодня</string>
+    <string name="a_no_holidays">В этот день нет известных мне праздников</string>
+</resources>

@@ -1,0 +1,57 @@
+<resources>
+    <string name="app_name">VoiceAssistant</string>
+    <string name="questionFieldHint">Ask a question</string>
+    <string name="sendButtonText">Send</string>
+    <string name="assistantName">Assistant</string>
+    <string name="userName">User</string>
+    <string name="before_birthday">birthday</string>
+    <string name="q_days_before">days before</string>
+    <string name="before_new_year">new year</string>
+    <string name="tomorrow">tomorrow</string>
+    <string name="q_hi">hi</string>
+    <string name="q_how_are_you">how are you</string>
+    <string name="q_what_doing">what are you doing</string>
+    <string name="q_what_doing_2">what are you doing</string>
+    <string name="q_thank">thank</string>
+    <string name="today">today</string>
+    <string name="q_time">time</string>
+    <string name="q_time2">time</string>
+    <string name="q_day_of_week">day of the week</string>
+    <string name="q_weather_in_city">weather in</string>
+    <string name="q_help">help</string>
+    <string name="q_translate">translate</string>
+    <string name="q_say">repeat</string>
+    <string name="a_hi">Hello!</string>
+    <string name="a_how_are_you">OK</string>
+    <string name="a_what_doing">I\'m answering your question</string>
+    <string name="a_thank">You\'re Welcome!</string>
+    <string name="translate_error">I can\'t translate this</string>
+    <string name="now_in_city">Now in</string>
+    <string name="internet_error">No internet connection</string>
+    <string name="weather_error">I can\'t find out the weather</string>
+    <string name="question_error">I didn\'t understand you</string>
+    <string name="a_before_error">I don\'t know</string>
+    <string name="a_day_of_week">Today is</string>
+    <string name="a_time">Now is</string>
+    <string name="a_today">Today is</string>
+    <string name="help_info">What you can ask me:
+        \n\nHELP me
+        \n\nHI
+        \n\nHOW ARE YOU?
+        \n\nWHAT ARE YOU DOING?
+        \n\nWhat day is it TODAY?
+        \n\nWhat TIME is it?
+        \n\nWhat DAY OF THE WEEK is today?
+        \n\nHow many DAYS BEFORE {new year / birthday}?
+        \n\nWhat\'s the WEATHER IN {city name}?
+        \n\nTRANSLATE {text on English or digit}
+        \n\nHOLIDAY {yesterday / today / tomorrow / 10 May / 10 5 / 10.5}
+        \n\nTHANK you
+        \n\n*CAPITAL letters indicate dictionary search keywords</string>
+    <string name="q_holiday">holiday</string>
+    <string name="yesterday">yesterday</string>
+    <string name="a_no_holidays">I don\'t know any holidays on this day</string>
+    <string name="day_theme">Light Theme</string>
+    <string name="night_theme">Dark Theme</string>
+    <string name="clear_dialog">Clear the dialog</string>
+</resources>
